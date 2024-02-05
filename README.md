@@ -29,7 +29,7 @@ It can count how many times you or someone else have said a word, which is user-
    pip install -r requirements.txt
    ```
    
-## Configuration
+### Configuration
 
 1. Fill in your Discord Token in the `.env.example` file.
 
@@ -39,11 +39,11 @@ It can count how many times you or someone else have said a word, which is user-
 
 ## Command Structure
 
-# Application Command:
-/wordcount word @user (leave user blank if you want the bot to count your messages)
+### Application Command:
+- /wordcount word @user (leave user blank if you want the bot to count your messages)
 
-# Legacy Prefix Command
-!wordcount word @user (leave user blank if you want the bot to count your messages)
+### Legacy Prefix Command
+- !wordcount word @user (leave user blank if you want the bot to count your messages)
 
 ## Development
 
