@@ -35,7 +35,7 @@ It can count how many times you or someone else have said a word, which is user-
 
 2. Rename the file to `.env`
 
-3. In `main.py`, make sure to replace the channel.id1 and channelid.2 into the channel ID of the channel you want to exclude. Leave blank (NOT LEAVING channel.id1 and channel.id2 AS IS) if you don't want any exclusions.
+3. In `main.py`, make sure to replace channel.id1 and channelid.2 on Line 16 to the channel ID of the channel you want to exclude. Leave blank (NOT LEAVING channel.id1 and channel.id2 AS IS) if you don't want any exclusions.
 
 4. Run `main.py`
 
