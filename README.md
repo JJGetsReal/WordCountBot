@@ -1,6 +1,6 @@
-# Word Count Bot
+# Word Count Bot (Formerly the Bruh Count Bot)
 Do you wonder how many times your friend said 'lmao' in your Discord server?
-Do you think that you say "bruh" too much?
+Do you think that you have said "bruh" way too much and wanted a way to know?
 
 Word Count Bot is a Discord bot written in Python that can do just that!
 It can count how many times you or someone else have said a word, which is user-inputted, over the last three days.
