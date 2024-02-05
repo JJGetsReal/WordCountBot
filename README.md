@@ -47,4 +47,4 @@ It can count how many times you or someone else have said a word, which is user-
 
 ## Development
 
-Feel free to fork the project and customize it according to your needs. Make sure to follow the Discord guidelines for bot development and API usage.
+You may fork the project and customise it according to your needs. Make sure to follow the Discord guidelines for bot development and API usage.
