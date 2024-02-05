@@ -12,7 +12,7 @@ load_dotenv()
 intents = discord.Intents.all()
 DISCORD_BOT_TOKEN = os.getenv("DISCORD_BOT_TOKEN")
 
-# List of channel IDs to exclude from checking
+# List of channel IDs to exclude from checking (replace channel.id1 and channel.id2 with your channel ID, leave blank if you don't want any exclusions)
 excluded_channel_ids = [channel.id1, channel.id2]
 
 # Initialize Discord bot
