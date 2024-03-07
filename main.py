@@ -97,7 +97,6 @@ async def bruh_count_task(ctx, user, counting_message, word_pattern, word):
 
         except discord.HTTPException as e:
             print(f"Discord API request failed: {e}")
-            # You can implement additional handling here if needed
 
     # Edit the existing counting message with the result and a ping to the user
     await counting_message.edit(
